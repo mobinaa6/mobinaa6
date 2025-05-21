@@ -6,7 +6,7 @@
 
 ---
 
-<picture style="margin-right:10px;>
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -15,7 +15,7 @@
 
 ### 📬 Connect With Me
 
-<p align="left">
+<p align="left" style="margin-right:10px;>
   <a href="https://instagram.com/m_ahm1384" target="_blank" style="margin-right:10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" />
   </a>
