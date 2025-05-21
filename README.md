@@ -9,7 +9,8 @@
 ### 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://github.com/mobinahmadi/mobinahmadi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github.com/mobinahmadi/mobinahmadi/blob/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
