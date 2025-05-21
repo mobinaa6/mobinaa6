@@ -7,11 +7,8 @@
 ---
 
 ### 🐍 GitHub Snake Animation
+![snake gif](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-<img src="https://github.com/mobinahmadi/mobinahmadi/blob/output/github-contribution-grid-snake.svg" />
-
-</p>
 
 ---
 
