@@ -22,11 +22,11 @@
   <a href="https://instagram.com/m_ahm1384" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="email" height="30" width="40" />
+  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
   </a>
-  <a href="https://t.me/M_mobin11" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" />
+  <a href="https://t.me/M_mobin11" target="_blank"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="40" />
   </a>
 </p>
 
