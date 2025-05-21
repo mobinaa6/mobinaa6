@@ -14,6 +14,19 @@
 </picture>
 
 
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/m_ahm1384" target="_blank" style="margin-right:10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" />
+  </a>
+  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank" style="margin-right:10px;"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="32" width="32" />
+  </a>
+  <a href="https://t.me/M_mobin11" target="_blank" style="margin-right:10px;"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="32" width="32" />
+  </a>
+</p>
 ### 📌 About Me
 
 - 👨‍💻 I'm **Mobin Ahmadi**, a 19-year-old mobile developer from Iran 🇮🇷
@@ -65,16 +78,4 @@
 
 
 
-### 📬 Connect With Me
 
-<p align="left">
-  <a href="https://instagram.com/m_ahm1384" target="_blank" style="margin-right:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" />
-  </a>
-  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank" style="margin-right:10px;"> 
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="32" width="32" />
-  </a>
-  <a href="https://t.me/M_mobin11" target="_blank" style="margin-right:10px;"> 
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="32" width="32" />
-  </a>
-</p>
