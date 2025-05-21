@@ -6,6 +6,14 @@
 
 ---
 
+### 🐍 GitHub Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> 
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ### 📌 About Me
 
 - 👨‍💻 I'm **Mobin Ahmadi**, a 19-year-old mobile developer from Iran 🇮🇷
@@ -55,15 +63,7 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinaa6/mobinaa6/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mobinaa6/mobinaa6/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mobinaa6/mobinaa6/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ### 📬 Connect With Me
 
