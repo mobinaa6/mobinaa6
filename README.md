@@ -7,7 +7,8 @@
 ---
 
 ### 🐍 GitHub Snake Animation
-![snake gif](https://github.com/mobinaa6/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/mobinaa6/androiddev123/output/github-contribution-grid-snake.svg)
+
 
 
 ---
