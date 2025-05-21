@@ -19,7 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/m_ahm1384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkv.dev" height="30" width="40" /></a>
+  <a href="https://instagram.com/m_ahm1384" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="email" height="30" width="40" />
+  </a>
+  <a href="https://t.me/M_mobin11" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" />
+  </a>
 </p>
 
 ### 🚀 About Me
