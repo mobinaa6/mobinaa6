@@ -19,14 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/m_ahm1384" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/m_ahm1384" target="_blank" style="margin-right:10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="32" width="32" />
   </a>
-  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank"> 
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+  <a href="mailto:mobin1384ahmadi1384@gmail.com" target="_blank" style="margin-right:10px;"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="32" width="32" />
   </a>
   <a href="https://t.me/M_mobin11" target="_blank"> 
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="32" width="32" />
   </a>
 </p>
 
